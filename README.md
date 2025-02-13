@@ -5,3 +5,5 @@
 **Read also, Why We Sent The Signal**
 •	https://archive.org/details/why-we-sent-the-signal
 •	https://ipfs.io/ipfs/bafkreieet4knsqf5x3gehs5cokz4dfndqfje7cilsr75hyhtp3daubzi3q
+
+DOI: 10.5281/zenodo.14865814
